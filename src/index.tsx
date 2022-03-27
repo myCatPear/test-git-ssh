@@ -7,6 +7,7 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <React.StrictMode>
     <App />
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, vel.
   </React.StrictMode>,
   document.getElementById('root')
 );
